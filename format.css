@@ -121,3 +121,37 @@ head{
     width: 19.85%;
     padding-top: 5%;
 }
+
+.pplant{
+    background-image: url("images/pplantlogo.png");
+    background-repeat: no-repeat;
+    background-size: 35%;
+    background-position-x: center;
+    background-position-y: 250px;
+    background-color: white;
+}
+
+.cptfalcon{
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 65pt;
+    padding-left: 20%;
+    padding-bottom: -200%;
+    display: inline;
+}
+
+.piranhaplanttitle{
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 65pt;
+    padding-left: 21%;
+    padding-bottom: -200%;
+    display: inline;
+}
+
+.fighterpicp{
+    display: inline;
+    height: 19.85%;
+    width: 19.85%;
+    padding-top: 13%;
+}
