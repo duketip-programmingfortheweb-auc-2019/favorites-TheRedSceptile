@@ -1,0 +1,106 @@
+head{
+
+}
+
+.body{
+    background-image: url("images/Smash_Ball.png");
+    background-repeat: no-repeat;
+    background-size: 35%;
+    background-position-x: center;
+    background-position-y: 250px;
+    background-color: white;
+}  
+
+.title{
+    display: inline;
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 65pt;
+    padding-left: 400px;
+}
+
+.logo{
+    display: inline;
+    height: 100px;
+    length: 100px;
+}
+
+.subtitle{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 45pt;
+    padding-left: 850px;
+    padding-bottom: 300px;
+    margin-top:10px;
+}
+
+.buynow{
+    display: inline;
+    height: 80px;
+    length: 80px;
+}
+
+.about{
+    display: inline;
+    height: 100px;
+    length: 100px;
+    padding-left: 17%;
+}
+
+.othermenu{
+    display: inline;
+    height: 100px;
+    length: 100px;
+}
+
+.fighterpick{
+    height: 25%;
+    width: 25%;
+   padding-left: 36%;
+}
+
+.fighters{
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 65pt;
+    padding-left: 600px;
+    display: inline;
+}
+
+.mariobackground{
+    background-image: url("images/actualmariologo.png");
+    background-repeat: no-repeat;
+    background-size: 35%;
+    background-position-x: center;
+    background-position-y: 250px;
+    background-color: white;
+}
+
+.mariotitle{
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 65pt;
+    padding-left: 25%;
+    padding-bottom: -200%;
+    display: inline;
+}
+
+.fightertext{
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30pt;
+}
+
+.fighterpic{
+    display: inline;
+    height: 19.85%;
+    width: 19.85%;
+}
+
+.mariobackground{
+    background-image: url("images/captainfalconlogo.png");
+    background-repeat: no-repeat;
+    background-size: 35%;
+    background-position-x: center;
+    background-position-y: 250px;
+    background-color: white;
+}
