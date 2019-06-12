@@ -90,17 +90,34 @@ head{
     font-size: 30pt;
 }
 
-.fighterpic{
+.fighterpicf{
     display: inline;
     height: 19.85%;
     width: 19.85%;
+    padding-top: 15%;
 }
 
-.mariobackground{
-    background-image: url("images/captainfalconlogo.png");
+.captainfalcon{
+    background-image: url("images/captainfalconlogo.jpg");
     background-repeat: no-repeat;
     background-size: 35%;
     background-position-x: center;
     background-position-y: 250px;
     background-color: white;
+}
+
+.ft{
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 65pt;
+    padding-left: 15%;
+    padding-bottom: -200%;
+    display: inline;
+}
+
+.fighterpicm{
+    display: inline;
+    height: 19.85%;
+    width: 19.85%;
+    padding-top: 5%;
 }
